@@ -15,7 +15,7 @@ export default function Home() {
       </div>
       <div
         className="absolute top-[50%] left-[25%] w-[50%] text-center items-center rounded-full border-2 bg-white align-middle">
-        LAT: 43.8187433 LON: -111.7832061
+        LAT: 43.8187433  LON: -111.7832061
       </div>
     </div>
   );
